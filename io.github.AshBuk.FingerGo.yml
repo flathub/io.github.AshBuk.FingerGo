@@ -1,6 +1,6 @@
 app-id: io.github.AshBuk.FingerGo
 runtime: org.gnome.Platform
-runtime-version: '49'
+runtime-version: '50'
 sdk: org.gnome.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.golang
@@ -41,6 +41,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/AshBuk/FingerGo.git
-        tag: v1.2.7
-        commit: 1ca5e2688e10860c7e346500a340c9543b9939d7
+        commit: cc8a674a3d679b57d53686b41358845c05f99b8e
+        tag: v1.2.8
       - go-mod-sources.json
