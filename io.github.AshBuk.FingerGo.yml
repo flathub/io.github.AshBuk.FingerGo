@@ -41,6 +41,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/AshBuk/FingerGo.git
-        commit: da60605682aab8f54a1e987ce6df72b0f64c25be
-        tag: v1.2.10
+        commit: c56b0e294d820f300e8e5fda00e44ae599145fc2
+        tag: v1.3.0
       - go-mod-sources.json
